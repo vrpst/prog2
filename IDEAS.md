@@ -6,5 +6,12 @@ We can build a game from scratch using C#. The premise will be an escape style h
 - Horror game music and visuals are a whole interesting thing of their own 
 - Building from scratch would definitly hit the complexity we would need
 
+Tom's thoughts:
+- Would absolutely love to do some machine learning things, would definitely be within our scope of skills and time plus a 2D implementation (even better a grid) would make it much easier to both run and develop some form of AI (excuse my buzzwording)
+- I can already imagine making some sick noise propogation doohickey to take the "thing" out of its "patrol" state and into a "search" state (like having sound travel from grid-block to grid-block where a change from air to wall dampens propogation so it can wrap around corners and through thin walls)
+- Plus our individual pursuits can just be developed in parallel and join up to make a really cool game! (and we can all say we've formed a small game development team which is a pretty cool bragging right in itself)
+- As for language I am easy because I'm learning new things anyhow
+- We need a cool group name :]
+
 # Idea 2
 - etc etc
