@@ -6,6 +6,6 @@
 - cmake --build .
 
 ## How to run
-- follow build instructions
-- in build directory, run ./sdl2-test
+in build directory:
+- ./sdl2-test
 
