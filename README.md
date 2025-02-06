@@ -3,7 +3,7 @@
 ## Build instructions
 - cmake -B build
 - cd build
-- cmake --build ..
+- cmake --build .
 
 ## How to run
 - follow build instructions
