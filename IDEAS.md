@@ -13,5 +13,18 @@ Tom's thoughts:
 - As for language I am easy because I'm learning new things anyhow
 - We need a cool group name :]
 
-# Idea 2
-- etc etc
+# 2025-02-07 notes (post-Steven)
+- Writing a game in C not a great idea
+
+## Language options
+- C#
+- C (no game)
+- Java (depends on project vs Tom's experience)
+- Rust (depends on James' experience)
+- TypeScript
+- Golang (please God no)
+
+## Lucas preferences
+- Something somewhat algorithmic
+- Would be fun to do something that involves sound of some kind (not a dealbreaker though)
+- Hesitant on AI
